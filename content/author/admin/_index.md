@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "MEng in Control Science and Engineering"
-  institution = "Massachusetts Institute of Technology"
+  institution = "JIANGNAN UNIVERSITY"
   year = 2018
 
 [[education.courses]]
