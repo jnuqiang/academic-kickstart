@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "ERIC ZHU"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Master of Control Science and Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Jiangnan University", url = "http://www.jiangnan.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include multivariate statistical analysis, product design, process control."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "mail.qiangeo.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Multivariate Statistical Anaysis",
+  "Product Design",
+  "Process Control"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -33,20 +33,20 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "MEng in Control Science and Engineering"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Automation"
+  institution = "JIANGNAN UNIVERSITY"
+  year = 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
