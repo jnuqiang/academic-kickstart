@@ -78,8 +78,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eric Zhu is a member of Key Laboratory of Advanced Process Control of Light Industry (Ministry of Education) in Jiangnan University. His research interests include multivariate statistical analysis, product design and process control.
 
-test
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Eric Zhu est membre du laboratoire clé du contrôle avancé des processus de l'industrie légère (ministère de l'Éducation) de l'Université de Jiangnan. Ses recherches portent sur l'analyse statistique multivariée, la conception de produits et le contrôle de processus.
